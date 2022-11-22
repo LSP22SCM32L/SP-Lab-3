@@ -1,5 +1,5 @@
 /* C program that reads data from text files, and calculates mean, median, 
-    and standard deviation from the set of valuels and shows the results*/
+    and standard deviation from the set of values and shows the results*/
 
 #include <stdio.h>
 #include <string.h>
